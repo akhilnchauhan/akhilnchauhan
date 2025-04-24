@@ -1,1 +1,1 @@
-Using AI to make apps that use AI.
+Using AI to make AI apps
